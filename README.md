@@ -1,6 +1,3 @@
-# SICREDI Digital - Gabriela Gomes
-https://www.linkedin.com/in/gabriela-gomess/
-
 ## Funcionalidades
 
 ###Consulta de Restrições
